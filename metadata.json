@@ -1,0 +1,8 @@
+{
+  "name": "Remix: BIOZATRA Website",
+  "description": "A broader science-led innovation and value creation platform rooted in water, sustainability, ecosystems and interdisciplinary thinking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
